@@ -47,4 +47,4 @@ yarn start
 - [ReactJS](https://reactjs.org/) - JavaScript library
 - [TypeScript](https://www.typescriptlang.org/) - TypeScript extends JavaScript by adding types.
 
-A aplicação seguiu o style guide de desenvolvimento da [AirBnB](https://github.com/airbnb/javascript)
+A aplicação seguiu o styleguide de desenvolvimento da [AirBnB](https://github.com/airbnb/javascript)
